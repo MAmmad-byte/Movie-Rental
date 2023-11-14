@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"MySecureKey",
+    "db":"mongodb+srv://masteram070:merapig@cluster0.qk8gi0i.mongodb.net/movie_rental"
+}
